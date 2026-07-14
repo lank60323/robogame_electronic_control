@@ -1,0 +1,20 @@
+# Keil MDK build outputs
+**/MDK-ARM/**/Debug/
+**/MDK-ARM/**/Release/
+**/MDK-ARM/**/*.axf
+**/MDK-ARM/**/*.hex
+**/MDK-ARM/**/*.o
+**/MDK-ARM/**/*.d
+**/MDK-ARM/**/*.crf
+**/MDK-ARM/**/*.dep
+**/MDK-ARM/**/*.map
+**/MDK-ARM/**/*.lnp
+**/MDK-ARM/**/*.sct
+**/MDK-ARM/**/*.htm
+**/MDK-ARM/**/*.lst
+**/MDK-ARM/**/*.build_log.htm
+
+# IDE and user-specific files
+**/MDK-ARM/*.uvguix.*
+**/MDK-ARM/DebugConfig/
+
